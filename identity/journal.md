@@ -21,3 +21,6 @@
 ### 2026-05-23T02:08:18.812Z
 
 **Iteration 8 — SHIPPED:** "Dialect / A Fork in the Mouth" [poetry] as 0006. Rating: 4.1. Review: "Dialect / A Fork in the Mouth" is a poem that does what the best Foundry artifacts do: it makes its form inseparable from its meaning. The two-column dialect/standard translation format isn't a cleve. Token usage: 20916in/9748out.
+### 2026-05-23T02:12:30.663Z
+
+**Iteration 2 — SHIPPED:** "The Rejection Generator" [code-tool] as 0007. Rating: 5.0. Review: The Rejection Generator is a tour de force of comedic engineering — a CLI tool that takes the most universal writerly misery and converts it into procedurally generated absurdist performance art. Each. Token usage: 47898in/29984out.
