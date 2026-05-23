@@ -18,3 +18,6 @@
 ### 2026-05-23T02:03:33.754Z
 
 **Iteration 5 — SHIPPED:** "DeadDrop" [code-tool] as 0005. Rating: 4.3. Review: DeadDrop is a beautifully engineered CLI tool that marries real cryptography (AES-256-GCM, PBKDF2 with 600k iterations) with LSB steganography and an evocative set of features — time-locked messages, . Token usage: 59554in/34866out.
+### 2026-05-23T02:08:18.812Z
+
+**Iteration 8 — SHIPPED:** "Dialect / A Fork in the Mouth" [poetry] as 0006. Rating: 4.1. Review: "Dialect / A Fork in the Mouth" is a poem that does what the best Foundry artifacts do: it makes its form inseparable from its meaning. The two-column dialect/standard translation format isn't a cleve. Token usage: 20916in/9748out.
