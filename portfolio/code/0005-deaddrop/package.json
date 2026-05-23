@@ -1,0 +1,31 @@
+{
+  "name": "deaddrop",
+  "version": "1.0.0",
+  "description": "Hide encrypted messages in images. Time-locked secrets for the archaeologist in all of us.",
+  "main": "src/index.js",
+  "bin": {
+    "deaddrop": "./src/index.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "steganography",
+    "encryption",
+    "cli",
+    "time-lock"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "sharp": "^0.33.1",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

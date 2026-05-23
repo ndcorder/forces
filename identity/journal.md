@@ -15,3 +15,6 @@
 ### 2026-05-23T01:57:40.483Z
 
 **Iteration 6 — SHIPPED:** "Elegy for a Language I Never Spoke" [essay] as 0004. Rating: 4.1. Review: This essay achieves something remarkably difficult: it invents a grammar of loss so convincing that the reader mourns features that never existed. The three linguistic constructs — the extinct case, t. Token usage: 13658in/4848out.
+### 2026-05-23T02:03:33.754Z
+
+**Iteration 5 — SHIPPED:** "DeadDrop" [code-tool] as 0005. Rating: 4.3. Review: DeadDrop is a beautifully engineered CLI tool that marries real cryptography (AES-256-GCM, PBKDF2 with 600k iterations) with LSB steganography and an evocative set of features — time-locked messages, . Token usage: 59554in/34866out.
